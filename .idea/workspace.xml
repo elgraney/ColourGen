@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="52" column="68" lean-forward="true" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+            <state relative-caret-position="131">
+              <caret line="213" column="61" selection-start-line="213" selection-start-column="61" selection-end-line="213" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,6 +42,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(base + (rand.nextInt(50)-25))%255</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -65,6 +73,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523982003098</updated>
-      <workItem from="1523982030610" duration="1958000" />
+      <workItem from="1523982030610" duration="7630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1958000" />
+    <option name="totallyTimeSpent" value="7630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -172,7 +181,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286385" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -184,7 +193,7 @@
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="52" column="68" lean-forward="true" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+        <state relative-caret-position="131">
+          <caret line="213" column="61" selection-start-line="213" selection-start-column="61" selection-end-line="213" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
